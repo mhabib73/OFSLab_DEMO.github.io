@@ -71,6 +71,7 @@ links:
 #   Otherwise, set `projects: []`.
 projects:
 - HCARF_modeling
+- Sensor
 
 
 # Slides (optional).
