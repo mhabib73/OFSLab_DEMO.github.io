@@ -1,5 +1,5 @@
 ---
-title: "Near-octave intense mid-infrared by adiabatic down-conversion in hollow anti-resonant fiber"
+title: "Physics-based design and simulation of hollow-core anti-resonant fiber plasmonic sensors"
 authors:
 - M Al Mahfuz
 - A Al Mamun
