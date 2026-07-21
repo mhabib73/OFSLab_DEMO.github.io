@@ -1,6 +1,6 @@
 ---
 title: Daniel defended MSc thesis
-date: 2026-07-19
+date: 2025-07-19
 image:
   focal_point: 'top'
 
