@@ -9,7 +9,6 @@ tags:
   - Low-loss fibers
 projects:
 - HCARF_modeling
-- HCARF_fabrication
 ---
 
 Congratulations Daniel for defending Msc thesis!
