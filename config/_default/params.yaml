@@ -5,11 +5,11 @@
 
 appearance:
   #theme_day: minimal
-  theme_day: nautical
-  theme_night: aurora
+  theme_day: minimal
+  theme_night: dark
   font: Sans-serif
   font_size: L
-  
+ 
   #theme_day: light
   #theme_night: persodark
   #font: custom_font
