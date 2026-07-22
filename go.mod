@@ -1,4 +1,5 @@
-module github.com/wowchemy/starter-hugo-research-group
+#module github.com/wowchemy/starter-hugo-research-group
+module my_website
 
 go 1.15
 
